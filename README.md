@@ -1,2 +1,1 @@
-# Curso-Henry
-Repositorio de Henry
+Esta es un prueba de como crear un repositorio y CLONARLO desde GitHub a mi computadora
